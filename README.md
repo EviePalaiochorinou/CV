@@ -1,6 +1,8 @@
-## Your Name
+## Evie Palaiochorinou
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+After a few years of experience in many different work fields, I wanted to put all my focus on a new challenge, and as a creative person, software development really appealed to me. I love working on projects and seeing them come to life, whether that's a collection of materials that become handmade soap, or a few lines of code that inspire a fully fledged web app.
+
+In October 2021 I joined the Makers Academy development bootcamp, where I learned the fundamentals of software development through fun projects (like this one).
 
 ## Projects
 
@@ -9,15 +11,38 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
+## Education
+
+#### Makers Academy (Oct 2021 - Feb 2022)
+- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
+- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+- you might also mention aspects some other skills/knowledge listed below: 
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby, Rails, JavaScript
+- RSpec, Jasmine
+
+#### University of Roehampton (Sept 2014 - Aug 2015)
+
+- Master's in Children's Literature
+
+#### Aristotle University of Thessaloniki (2009 - 2013)
+
+- English Language & Literature (undergraduate degree)
+
+#### YogaLondon (2019)
+
+- 200hrs Yoga Teacher Training (Yoga Alliance Certification)
+
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Entura International** (Apr 2019 - Feb 2020)  
+_IT Support Engineer_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Entura International** (May 2017 - Apr 2019)  
+_System Resources Analyst_
 
 - Any experience relevent to software development
 
@@ -51,27 +76,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+## Interests
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+Practising & teaching Yoga
+Homemade candles & skincare products
+Educating myself on and promoting sustainability
