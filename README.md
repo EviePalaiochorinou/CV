@@ -1,8 +1,8 @@
 # Evie Palaiochorinou
 
-After a few years of experience in many different work fields, I wanted to put all my focus on a new challenge, and as a creative person, software development really appealed to me. I love working on projects and seeing them come to life, whether that's a collection of materials that become handmade soap, or a few lines of code that inspire a fully fledged web app.
+After a few years of flirting with tech in many different work fields, I decided to put all my focus into learning software development. I love working on projects and seeing them come to life, whether that's a collection of materials that become handmade soap, or a few lines of code that inspire a fully fledged web app. Software development combines two of my strongest aspects as a person, organisation and creativity.
 
-In October 2021 I joined the Makers Academy development bootcamp, where I learned the fundamentals of software development through fun projects (like this one).
+In October 2021 I joined the Makers Academy development bootcamp, where I learned the fundamentals of software development through fun projects (like the ones below).
 
 ---
 ### [Projects](#project) * [Skills](#skills) * [Education](#education) * [Experience](#experience) * [Interests](#interests) * [LinkedIn](https://www.linkedin.com/in/eviepalaiochorinou/ "linkedin")
@@ -68,7 +68,7 @@ _System Resources Analyst_
 
 ## Languages
 
-Ruby - JavaScript - Node.js - currently learnin GO
+Ruby - JavaScript - Node.js - currently learning GO
 
 ## Skills
 
@@ -81,6 +81,6 @@ Ruby - JavaScript - Node.js - currently learnin GO
 
 ## Interests
 
-Practising & teaching Yoga
-Homemade candles
+Practising & teaching Yoga\
+Homemade candles\
 Books
