@@ -5,7 +5,7 @@ After a few years of flirting with tech in many different work fields, I decided
 In October 2021 I joined the Makers Academy development bootcamp, where I learned the fundamentals of software development through fun projects (like the ones below).
 
 ---
-### [Projects](#project) * [Skills](#skills) * [Education](#education) * [Experience](#experience) * [Interests](#interests) * [LinkedIn](https://www.linkedin.com/in/eviepalaiochorinou/ "linkedin")
+### [Projects](#project) * [Skills](#skills) * [Education](#education) * [Experience](#experience) * [Interests](#interests) * [LinkedIn](https://www.linkedin.com/in/evie-palaiochorinou/)
 ---
 
 ## Projects
