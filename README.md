@@ -5,17 +5,17 @@ After a few years of flirting with tech in many different work fields, I decided
 In October 2021 I joined the Makers Academy development bootcamp, where I learned the fundamentals of software development through fun projects (like the ones below).
 
 ---
-### [Projects](#project) * [Skills](#skills) * [Education](#education) * [Experience](#experience) * [Interests](#interests) * [LinkedIn](https://www.linkedin.com/in/evie-palaiochorinou/)
+### [Projects](#projects) * [Education](#education) * [Experience](#experience) * [languages](#languages) * [Skills](#skills) * [Interests](#interests) * [LinkedIn](https://www.linkedin.com/in/evie-palaiochorinou/)
 ---
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Local Lab**            | A local community lending & borrowing app | MERN stack |
-| **Acebook** | A Fcebook clone app | Ruby, Rails, JavaScript, HTML5, SCSS, Bulma, PostgreSQL, Rspec|
-| **Bank Ledger** | Make transactions & print a bank statement in IRB | Ruby |
-| **Chitter** | An MVP of a Twitter clone (in progress) | Ruby |
+| **[Local Lab](https://github.com/msc49/llab)**            | A local community lending & borrowing app | MERN stack |
+| **[Acebook](https://github.com/EviePalaiochorinou/acebook-on-the-rails)** | A Facebook clone app | Ruby, Rails, JavaScript, HTML5, SCSS, Bulma, PostgreSQL, Rspec, Heroku |
+| **[Bank Ledger](https://github.com/EviePalaiochorinou/bank-leger)** | Make transactions & print a bank statement in IRB | Ruby |
+| **[Chitter](https://github.com/EviePalaiochorinou/chitter-challenge)** | An MVP of a Twitter clone (in progress) | Ruby |
 
 ## Education
 
@@ -47,6 +47,14 @@ English Language & Literature (undergraduate degree)
 200hrs Yoga Teacher Training (Yoga Alliance Certification)
 
 ## Experience
+
+**Makers Academy** (Dec 2020 - Feb 2021)  
+_Junior Software Developer_
+
+- Team projects as part of the bootcamp
+- Pair programing, TDD, Version Control
+- Agile processes, product design
+
 
 **Entura International** (Apr 2019 - Feb 2020)  
 _IT Support Engineer_
@@ -81,6 +89,6 @@ Ruby - JavaScript - Node.js - currently learning GO
 
 ## Interests
 
-Practising & teaching Yoga\
-Homemade candles\
+Practising & teaching Yoga  
+Homemade candles  
 Books
