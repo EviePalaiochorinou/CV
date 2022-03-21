@@ -5,7 +5,7 @@ After a few years of flirting with tech in many different work fields, I decided
 In October 2021 I joined the Makers Academy development bootcamp, where I learned the fundamentals of software development through fun projects (like the ones below).
 
 ---
-### [Projects](#projects) * [Education](#education) * [Experience](#experience) * [languages](#languages) * [Skills](#skills) * [Interests](#interests) * [LinkedIn](https://www.linkedin.com/in/evie-palaiochorinou/)
+### [Projects](#projects) * [Education](#education) * [Experience](#experience) * [Languages](#languages) * [Skills](#skills) * [Interests](#interests) * [LinkedIn](https://www.linkedin.com/in/evie-palaiochorinou/)
 ---
 
 ## Projects
@@ -27,12 +27,14 @@ _16 week Software Development Bootcamp_
 - effective debugging processes
 - language agnostic approach
 - code reviews weekly
-- utilised MVC pattern, databases, HTTP requests, APIs
-- 3 team engineering projects (5 weeks), requiring teamwork, research, planning & designing, communication, and learning on the fly
-- OOP, TDD, MVC, DDD
+- utilised MVC pattern, databases, HTTP requests, APIs, Version control
+- 3 team engineering projects (5 weeks), requiring teamwork, MVP design with database diagramming, mocks, product outlining, and learning on the fly
+- OOP, TDD, MVC, DDD, MVP, Git
 - Agile processes
 - Ruby, Rails, JavaScript
 - RSpec, Capybara, familiar with Jest
+- SQL, familiar with MongoDB and Mongo Atlas
+- Familiar with Heroku and CI/CD
 
 #### University of Roehampton (Sept 2014 - Aug 2015)
 
@@ -76,19 +78,27 @@ _System Resources Analyst_
 
 ## Languages
 
-Ruby - JavaScript - Node.js - currently learning GO
+Ruby - JavaScript - Node.js - Rails - currently learning GO & React
 
 ## Skills
 
-- Experience in a Tech team with Agile processes and product management software like JIRA & YouTrack.
-- OOP, TDD, MVC, Testing
-- Git
-- MVP design with database diagramming, mocks, and product outlining
-- Familiar with Heroku and CI/CD
-- SQL, familiar with MongoDB and Mongo Atlas
+#### Lifelong learner
+I am motivated by an environment that always keeps me learning new things so no two days are ever the same. During my working life, I successfully managed to learn various soft and technical skills both independently but also on the job in a very short period of time. For example, I learned the skills needed for my technical digital marketing role and later for my IT Support Engineer role on the job and was independent and efficient in under a month. I thrive in supportive, energetic and challenging environments!
+
+#### Problem solving
+My background in teaching, as well as IT Support has equipped me with a passion for dealing with daily challenges in effective and creative ways.
+
+#### Motivated self-starter
+[]
+
+#### Adaptability to unfamiliar environments
+[]
+
+#### Communication & Team skills
+[]
 
 ## Interests
 
 Practising & teaching Yoga  
 Homemade candles  
-Books
+Books (currently reading The Name of the Wind by Patrick Rothfuss)
