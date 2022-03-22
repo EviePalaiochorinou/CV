@@ -6,7 +6,9 @@ In October 2021 I joined the Makers Academy development bootcamp, where I learne
 
 #### What excites me about a career in tech
 👩‍💻Nothing is impossible: Technology is the driving force behind most of today’s innovations. It is ever-changing and inspiring.  
+
 🧠Always learning: A career in technology is a fulfilling and fascinating one. I love the idea of being able to learn so much and still not know enough. There is never a boring day in tech!  
+
 💡Teamwork: If you go alone, you go far. If you go together, you go even further. It is very rewarding to see how much a great team can accomplish. Working in a team feels inspiring, supportive, more productive and creative, in addition to brainstorming better on challenges and celebrating successes!
 
 ---
