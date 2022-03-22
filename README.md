@@ -4,6 +4,11 @@ After a few years of flirting with tech in many different work fields, I decided
 
 In October 2021 I joined the Makers Academy development bootcamp, where I learned the fundamentals of software development through fun projects (like the ones below).
 
+#### What excites me about a career in tech
+👩‍💻Nothing is impossible: Technology is the driving force behind most of today’s innovations. It is ever-changing and inspiring.  
+🧠Always learning: A career in technology is a fulfilling and fascinating one. I love the idea of being able to learn so much and still not know enough. There is never a boring day in tech!  
+💡Teamwork: If you go alone, you go far. If you go together, you go even further. It is very rewarding to see how much a great team can accomplish. Working in a team feels inspiring, supportive, more productive and creative, in addition to brainstorming better on challenges and celebrating successes!
+
 ---
 ### [Projects](#projects) * [Education](#education) * [Experience](#experience) * [Languages](#languages) * [Skills](#skills) * [Interests](#interests) * [LinkedIn](https://www.linkedin.com/in/evie-palaiochorinou/)
 ---
@@ -37,16 +42,13 @@ _16 week Software Development Bootcamp_
 - Familiar with Heroku and CI/CD
 
 #### University of Roehampton (Sept 2014 - Aug 2015)
-
-Master's in Children's Literature
+_Master's in Children's Literature_
 
 #### Aristotle University of Thessaloniki (2009 - 2013)
-
-English Language & Literature (undergraduate degree)
+_English Language & Literature (undergraduate degree)_
 
 #### YogaLondon (2019)
-
-200hrs Yoga Teacher Training (Yoga Alliance Certification)
+_200hrs Yoga Teacher Training (Yoga Alliance Certification)_
 
 ## Experience
 
@@ -83,19 +85,19 @@ Ruby - JavaScript - Node.js - Rails - currently learning GO & React
 ## Skills
 
 #### Lifelong learner
-I am motivated by an environment that always keeps me learning new things so no two days are ever the same. During my working life, I successfully managed to learn various soft and technical skills both independently but also on the job in a very short period of time. For example, I learned the skills needed for my technical digital marketing role and later for my IT Support Engineer role on the job and was independent and efficient in under a month. I thrive in supportive, energetic and challenging environments!
+I am motivated by an environment that always keeps me learning new things so no two days are ever the same. During my working life, I successfully managed to learn various soft and technical skills both independently but also on the job in a very short period of time. For example, I learned the skills needed for my technical digital marketing role and later for my IT Support Engineer role on the job and was independent and efficient in under a month. I am the person who is always studying something and I believe that the willingness to learn is a personality trait.
 
 #### Problem solving
-My background in teaching, as well as IT Support has equipped me with a passion for dealing with daily challenges in effective and creative ways.
+My background in teaching, as well as IT Support has equipped me with a passion for dealing with daily challenges in effective and creative ways. In my experience at the coding bootcamp, there were many times where I had to come up with effective problem solutions. For example, during our team Acebook project, we wanted to implement an icon for the 'like' button instead of a text button, which was a new challenge for us. I offered to see this feature through, and via TDD and debugging procedures, I managed to solve the problem and make it work, but I also ended up learning many things on the way there!
 
 #### Motivated self-starter
-[]
+If I notice room for improvement, I will jump on the challenge where time and priorities permit. For instance, when I joined my former company I noticed that every day the team was writting manually all the regular expressions needed to configure a product on our scraping tool which was taking up a good chunk of their time. Therefore, I organised and put together a document with regular expressions to use according to the kind of product or a specific pattern and uploaded it for easy access to the team. With this, the team ended up saving about 1-2 hours of work every day.
 
 #### Adaptability to unfamiliar environments
-[]
+I was promoted to my latest role (IT Support Engineer) for my abilities and skills, but without having the relevant educational background. Nonetheless, with a litte targeted support, my eagerness to learn, and not being afraid to ask questions, I was up to speed and independend within the first month in this role! Similarly, Makers Academy coding bootcamp taught me how to have a language agnostic aproach and face every challenge as it comes, so I am able to thrive in a new and challenging environment. For example, our Acebook project was the first big, two-week, team project we had to do in a framework that was completely new to us. I managed to organise my time around learning while putting my new knowledge in practice by working on features of the project, and in addition, our pairing work with other classmates accelerated our productivity and learning tenfold.
 
 #### Communication & Team skills
-[]
+I thrive in supportive, energetic and challenging environments! Pairing sessions and team projects were one of the most enjoyable things during my coding bootcamp. During our projects, we followed agile working processes (I already had prior experience with that in my IT role as part of the Tech department, so I was able to advice my team-mates on processes), and found the most effective communication ways in order to deliver within the deadline a product that works well! Concise and effective communication, but also setting goals, priorities, and issue raising processes are as important as the technical skills of a team!
 
 ## Interests
 
