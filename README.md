@@ -21,8 +21,8 @@ In October 2021 I joined the Makers Academy development bootcamp, where I learne
 | ---------------------------- | ----------------- | ----------------- |
 | **[Local Lab](https://github.com/msc49/llab)**            | A local community lending & borrowing app | MERN stack |
 | **[Acebook](https://github.com/EviePalaiochorinou/acebook-on-the-rails)** | A Facebook clone app | Ruby, Rails, JavaScript, HTML5, SCSS, Bulma, PostgreSQL, Rspec, Heroku |
-| **[Bank Ledger](https://github.com/EviePalaiochorinou/bank-ledger)** | Make transactions & print a bank statement in IRB | Ruby |
-| **[Chitter](https://github.com/EviePalaiochorinou/chitter-challenge)** | An MVP of a Twitter clone (in progress) | Ruby |
+| **[Bank Ledger](https://github.com/EviePalaiochorinou/bank-ledger)** | Make transactions & print a bank statement in IRB | Ruby, Rspec |
+| **[Bowling Scorecard](https://github.com/EviePalaiochorinou/bowling-scorecard)** | Count and sum the scores of a bowling game for one player (deceptively complex!) | Javascript |
 
 ## Education
 
