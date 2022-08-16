@@ -1,6 +1,8 @@
 # Evie Palaiochorinou
 
-After a few years of flirting with tech in many different work fields, I decided to put all my focus into learning software development. I love working on projects and seeing them come to life, whether that's a collection of materials that become handmade soap, or a few lines of code that inspire a fully fledged web app. Software development combines two of my strongest aspects as a person, organisation and creativity.
+_I am a junior software engineer with a focus on back end development._  
+
+After a few years of flirting with tech in many different work fields, I decided to put all my focus into learning software development. I love working on projects and seeing them come to life, whether that's a collection of materials that become handmade soap, or a few lines of code that inspire a fully fledged web app. Software development combines some of my strongest aspects as a person, organisation, problem-solving, and creativity.
 
 In October 2021 I joined the Makers Academy development bootcamp, where I learned the fundamentals of software development through fun projects (like the ones below).
 
@@ -19,10 +21,11 @@ In October 2021 I joined the Makers Academy development bootcamp, where I learne
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Local Lab](https://github.com/msc49/llab)**            | A local community lending & borrowing app | MERN stack |
-| **[Acebook](https://github.com/EviePalaiochorinou/acebook-on-the-rails)** | A Facebook clone app | Ruby, Rails, JavaScript, HTML5, SCSS, Bulma, PostgreSQL, Rspec, Heroku |
+| **[FastAPI Blogging](https://github.com/EviePalaiochorinou/fastapi)** | _Personal Project:_ A blog in FastAPI. Login, create articles, post comments | Python3, FastAPI, SQLAlchemy, SQLite, OAuth2, Pytest, Heroku |
+| **[(F)Acebook](https://github.com/EviePalaiochorinou/acebook-on-the-rails)** | A Facebook clone app  (_team bootcamp project_) | Ruby, Rails, JavaScript, HTML5, SCSS, Bulma, PostgreSQL, Rspec, Heroku |
 | **[Bank Ledger](https://github.com/EviePalaiochorinou/bank-ledger)** | Make transactions & print a bank statement in IRB | Ruby, Rspec |
 | **[Bowling Scorecard](https://github.com/EviePalaiochorinou/bowling-scorecard)** | Count and sum the scores of a bowling game for one player (deceptively complex!) | Javascript |
+| **[Local Lab](https://github.com/msc49/llab)**            | A local community lending & borrowing app  (_team bootcamp project_) | MERN stack |
 
 ## Education
 
@@ -82,7 +85,7 @@ _System Resources Analyst_
 
 ## Languages
 
-Ruby - JavaScript - Node.js - Rails - currently learning GO & React
+Python - GO - Ruby - Node.js - familiar with Rails & React
 
 ## Skills
 
