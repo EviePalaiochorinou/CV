@@ -4,7 +4,10 @@ _I am a junior software engineer with a focus on back end development._
 
 After a few years of flirting with tech in many different work fields, I decided to put all my focus into learning software development. I love working on projects and seeing them come to life, whether that's a collection of materials that become handmade soap, or a few lines of code that inspire a fully fledged web app. Software development combines some of my strongest aspects as a person, organisation, problem-solving, and creativity.
 
-In October 2021 I joined the Makers Academy development bootcamp, where I learned the fundamentals of software development through fun projects (like the ones below).
+In October 2021 I joined the Makers Academy development bootcamp, where I learned the fundamentals of software development through fun projects (like the ones below).  
+
+I have working experience in the Java ecosystem and fair DevOps and infrastructure exposure, currently working in the global sports betting industry.  
+💬 Most comfortable in Java and Python. Interested in GO and Kotlin!  
 
 #### What excites me about a career in tech
 👩‍💻Nothing is impossible: Technology is the driving force behind most of today’s innovations. It is ever-changing and inspiring.  
@@ -57,8 +60,19 @@ _200hrs Yoga Teacher Training (Yoga Alliance Certification)_
 
 ## Experience
 
+**Betfair** (Oct 2022 - Nov 2023)  
+_Software Engineer_
+
+- Improved customer experience by upgrading video and data visualisation providers
+- Hardened critical security for critical services by migrating certificates to HashiCorp Vault
+- Developing a visibility dashboard for 3rd party horse racing data, to catch errors and assist with reconciliation
+- Upgraded Java Management Extension services from http to https
+- Migrated team services to OpenStack Platform 16 for Long‑term support
+- Developed Bet Placing CLI Tool
+
+
 **Makers Academy** (Dec 2020 - Feb 2021)  
-_Junior Software Developer_
+_Student Software Developer_
 
 - Team projects as part of the bootcamp
 - Pair programing, TDD, Version Control
@@ -85,7 +99,10 @@ _System Resources Analyst_
 
 ## Languages
 
-Python - GO - Ruby - Node.js - familiar with Rails & React
+Java - Python  
+
+Familiar with: Go - Node.js  
+Interested in: Kotlin
 
 ## Skills
 
@@ -106,6 +123,7 @@ I thrive in supportive, energetic and challenging environments! Pairing sessions
 
 ## Interests
 
+Youtube
 Practising & teaching Yoga  
 Homemade candles  
-Books (currently reading The Name of the Wind by Patrick Rothfuss)
+Books
