@@ -4,9 +4,9 @@ _I am a junior software engineer with a focus on back end development._
 
 After a few years of flirting with tech in many different work fields, I decided to put all my focus into learning software development. I love working on projects and seeing them come to life, whether that's a collection of materials that become handmade soap, or a few lines of code that inspire a fully fledged web app. Software development combines some of my strongest aspects as a person, organisation, problem-solving, and creativity.
 
-In October 2021 I joined the Makers Academy development bootcamp, where I learned the fundamentals of software development through fun projects (like the ones below).  
+In October 2021 I joined the Makers Academy software engineering bootcamp, where I learned the fundamentals of software development through fun projects (like the ones below).  
 
-I have working experience in the Java ecosystem and fair DevOps and infrastructure exposure, currently working in the global sports betting industry.  
+I have working experience in the Java ecosystem and fair DevOps and infrastructure exposure in the global sports betting industry.  
 💬 Most comfortable in Java and Python. Interested in GO and Kotlin!  
 
 #### What excites me about a career in tech
@@ -101,7 +101,7 @@ _System Resources Analyst_
 
 Java - Python  
 
-Familiar with: Go - Node.js  
+Familiar with: Node.js - GO  
 Interested in: Kotlin
 
 ## Skills
